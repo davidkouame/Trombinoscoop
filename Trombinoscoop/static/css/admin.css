@@ -1,0 +1,14 @@
+body{
+	padding-top: 94px;
+}
+
+.error{
+	text-align: center;
+    margin: 10px;
+    color: red;
+    font-size: 17px;
+}
+
+.panel-heading {
+   	height: 42px;
+}
